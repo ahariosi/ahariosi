@@ -8,7 +8,7 @@ André, aqui
 <div style="display: inline_block"><br>
 
           
-  [![My Skills](https://skillicons.dev/icons?i=aws,docker,ansible,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ansible,aws,azure,docker,grafana,python)](https://skillicons.dev)
   ##
  
 <div> 
